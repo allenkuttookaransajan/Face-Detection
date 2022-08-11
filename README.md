@@ -1,2 +1,2 @@
 # Face-Detection
-The programme detects face using opencv
+The programme detects face using *opencv*
