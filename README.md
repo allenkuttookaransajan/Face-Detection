@@ -4,4 +4,4 @@ The method by which the programme detects the face is by using haar cascades its
 ## File location
 ---
 In order for the programme to call the haar cascade ensure that the location of the variable haar_cascade is set to the location where the haar cascade is downloaded.
-<code>haar_cascade = cv.CascadeClassifier("C:/Users/...../haar_face.xml")</code>
+`haar_cascade = cv.CascadeClassifier("C:/Users/...../haar_face.xml")`
