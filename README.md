@@ -4,6 +4,7 @@ The method by which the programme detects the face is by using haar cascades its
 <p align="center">
   <img src="Photos/face.png" width="300" height="300"/>
 </p>
+
 ## File location
 ---
 <p>In order for the programme to call the haar cascade ensure that the location of the variable haar_cascade is set to the location where the haar cascade is downloaded.</p>
